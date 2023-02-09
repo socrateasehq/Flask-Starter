@@ -4,7 +4,7 @@
 
 ## Installation
 Install Python 3.8.10 and the latest version of PostgreSQL
-git clone https://github.com/Kalebu/Flask-starter
+git clone git@github.com:socrateasehq/Flask-Starter.git
 
 ## Create and enter a virtual environment
 ```bash
