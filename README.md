@@ -14,7 +14,13 @@ source virtualenv/bin/activate
 curl https://bootstrap.pypa.io/get-pip.py | python
 pip install setuptools --upgrade
 pip install -r requirements.txt
+
 ```
+
+## Create a database
+```bash
+createdb lms
+``` 
 
 ## How to run
 
